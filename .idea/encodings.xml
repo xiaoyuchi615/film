@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/taglibs-standard-compat-1.2.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/taglibs-standard-impl-1.2.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/taglibs-standard-jstlel-1.2.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/WebRoot/WEB-INF/lib/taglibs-standard-spec-1.2.5.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/dao/InsertUpdateDelDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/dao/SelectDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/util/Validate.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

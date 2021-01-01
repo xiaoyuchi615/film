@@ -1,0 +1,241 @@
+unknown {
+	border-right: 0px;
+	padding-right: 0px;
+	border-top: 0px;
+	padding-left: 0px;
+	padding-bottom: 0px;
+	margin: 0px;
+	border-left: 0px;
+	padding-top: 0px;
+	border-bottom: 0px
+}
+
+td {
+	font-size: 12px
+}
+
+P {
+	FONT-SIZE: 12px
+}
+
+div {
+	font-size: 12px
+}
+
+select {
+	font-size: 12px
+}
+
+input {
+	font-size: 12px
+}
+
+textarea {
+	font-size: 12px
+}
+
+select {
+	vertical-align: middle
+}
+
+input {
+	vertical-align: middle
+}
+
+a {
+	color: #000000;
+	text-decoration: none
+}
+
+a {
+	blr: expression(this.onfocus = this.blur () )
+}
+
+a:hover {
+	color: #f00
+}
+
+.img01 {
+	border-right: #fcf4bd 1px solid;
+	border-top: #fcf4bd 1px solid;
+	border-left: #fcf4bd 1px solid;
+	border-bottom: #fcf4bd 1px solid
+}
+
+.title td {
+	font-size: 14px;
+	filter: dropshadow(color = #fcf4bd, offx = 1, offy = 1, positive = 1);
+	color: #861700;
+	padding-top: 8px
+}
+
+.title td a {
+	color: #861700;
+	text-decoration: underline
+}
+
+.title td a:visited {
+	color: #861700;
+	text-decoration: none
+}
+
+.title td a:hover {
+	color: #f00;
+	text-decoration: underline
+}
+
+.title1 td {
+	font-size: 12px;
+	filter: dropshadow(color = #fcf4bd, offx = 1, offy = 1, positive = 1);
+	color: #861700;
+	padding-top: 8px
+}
+
+.title1 td a {
+	color: #861700;
+	text-decoration: underline
+}
+
+.title1 td a:visited {
+	color: #861700;
+	text-decoration: underline
+}
+
+.title1 td a:hover {
+	color: #f00;
+	text-decoration: none
+}
+
+td.tddebug {
+	font-size: 12px;
+	color: #000000
+}
+
+a:link.linkbody {
+	color: #000000;
+	text-decoration: none
+}
+
+a:visited.linkbody {
+	color: #000000;
+	text-decoration: none
+}
+
+a:hover.linkbody {
+	color: #fd5f04;
+	text-decoration: underline
+}
+
+a:link.linklm {
+	color: #000000;
+	text-decoration: none
+}
+
+a:visited.linklm {
+	color: #000000;
+	text-decoration: none
+}
+
+a:hover.linklm {
+	color: #f00;
+	text-decoration: none
+}
+
+a:link.linkshow {
+	color: #000fff;
+	text-decoration: underline
+}
+
+a:visited.linkshow {
+	color: #000fff;
+	text-decoration: underline
+}
+
+a:hover.linkshow {
+	color: #f00;
+	text-decoration: underline
+}
+
+a:link.linktop {
+	color: #000000;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+a:visited.linktop {
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+a:hover.linktop {
+	text-decoration: underline;
+	font-weight: bold;
+	font-size: 14px;
+}
+
+.textline {
+	line-height: 19px
+}
+
+.bigline {
+	line-height: 25px
+}
+
+.normal {
+	color: #414f58;
+	height: 36px
+}
+
+.redtext {
+	font-weight: bold;
+	font-size: 14px;
+	filter: glow(color = #8c96b5, strength = 2)
+		shadow(color = #b4bbcf, direction = 135);
+	color: #fa4905;
+	height: 36px
+}
+
+.hightext {
+	font-weight: bold;
+	font-size: 16px;
+	filter: glow(color = #b4bbcf, strength = 5);
+	color: #fa4905;
+	height: 30px
+}
+
+.texthighlight {
+	line-height: 30px
+}
+
+.bigtext {
+	font-weight: bold;
+	font-size: 14px;
+	color: #fa4905;
+	line-height: 30px
+}
+
+.input7 {
+	background:  repeat-x left center;
+	border-bottom-width: 0px;
+	width: 200px;
+	color: #ff0000;
+	height: 18px;
+	border-right-width: 0px
+}
+
+.input6 {
+	width: 120px;
+	height: 30px;
+
+}
+
+.input5 {
+	background: repeat-x left center;
+	border-bottom-width: 0px;
+	width: 50px;
+	color: #ff0000;
+	height: 18px;
+	border-right-width: 0px
+}
